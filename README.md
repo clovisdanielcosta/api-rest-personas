@@ -61,9 +61,9 @@ http://localhost:8080/api/v1/people
 
 ## :small_orange_diamond: Compartilhando 
 
-Atalhos para o IntelliJ (Reference Card)
+Fiz o download dos atalhos para o IntelliJ (Reference Card) no link fornecido pelo professor.
 
-[IntelliJ Reference Card](IntelliJIDEA_ReferenceCard.pdf) (pdf)
+[IntelliJ Reference Card](IntelliJIDEA_ReferenceCard.pdf) (pdf completo)
 
 <p align="center">
   <img  alt="Cartão de Referência do IntelliJ" src="./img/intellij-card.png" width="50%">
