@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-Bootcamp everis Fullstack Developer by Digital Innovation One
+Bootcamp everis Fullstack Developer pela Digital Innovation One
 </h2>
 
 <p align="center">
